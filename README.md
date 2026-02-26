@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I’m Book
+Software Engineer | Master of IT Candidate @ UniSA
+I am a front-end specialist and full-stack developer with 5 years of professional experience. My current focus is bridging the gap between high-performance UI and robust, data-intensive back-end systems.
 
-<!--
-**bookmountain/bookmountain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Professional Background
+Experience: 5 years in software engineering, including a 3-year tenure at Microsoft.
 
-Here are some ideas to get you started:
+Current Focus: Migrating legacy PHP/MySQL architectures to modern NestJS and PostgreSQL stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education: Currently pursuing a Master of Information Technology at Adelaide University (Expected July 2027).
+
+🛠 Tech Stack & Tools
+Languages & Frameworks: React, TypeScript, NestJS, Node.js, Java, C#, .NET and Python 
+
+Databases: PostgreSQL, MySQL, Redis.
+
+DevOps & Infrastructure: Proxmox (Homelab), Docker, Azure
+
+Architecture: System Design (DDIA), Microservices, RESTful APIs.
+
+Connect with me
+Location: Adelaide, SA
+LinkedIn: linkedin.com/in/book-sam-603004169
