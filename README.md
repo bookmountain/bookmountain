@@ -4,20 +4,14 @@ I am a front-end specialist and full-stack developer with 5 years of professiona
 
 🚀 Professional Background
 Experience: 5 years in software engineering, including a 3-year tenure at Microsoft.
-
-Current Focus: Migrating legacy PHP/MySQL architectures to modern NestJS and PostgreSQL stacks.
-
 Education: Currently pursuing a Master of Information Technology at Adelaide University (Expected July 2027).
 
 🛠 Tech Stack & Tools
 Languages & Frameworks: React, TypeScript, NestJS, Node.js, Java, C#, .NET and Python 
-
 Databases: PostgreSQL, MySQL, Redis.
-
 DevOps & Infrastructure: Proxmox (Homelab), Docker, Azure
-
 Architecture: System Design (DDIA), Microservices, RESTful APIs.
 
-Connect with me
+📫 Connect with me
 Location: Adelaide, SA
 LinkedIn: linkedin.com/in/book-sam-603004169
